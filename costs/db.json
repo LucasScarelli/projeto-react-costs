@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Site Estilo Spotify",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Contratar Dev Front",
+          "cost": "2000",
+          "description": "Desenvolver front-end",
+          "id": "5ee7f50d-d432-4427-ba15-a92e04047ee5"
+        },
+        {
+          "cost": "1000",
+          "name": "Dev full",
+          "description": "stack",
+          "id": "539c49fe-f38d-469f-9dae-3ad35f94db3d"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
